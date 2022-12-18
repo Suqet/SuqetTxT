@@ -24,6 +24,7 @@ table
     justify-content: center;
     align-items: center;
     border: 2px solid;
+    border-radius: 25px;
 }
 a
 {
